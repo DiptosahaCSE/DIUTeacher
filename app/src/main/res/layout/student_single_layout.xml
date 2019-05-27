@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/getting_information__layout_background"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginBottom="20dp"
+    >
+
+    <TextView
+        android:id="@+id/student_id_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Id : 01"
+        android:textColor="@color/gray900"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/student_name_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name : Nizam Uddin Shamrat"
+        android:textColor="@color/gray900"
+        android:textSize="20sp" />
+</LinearLayout>

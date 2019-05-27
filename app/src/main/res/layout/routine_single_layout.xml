@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/button_backround_one"
+    >
+
+    <TextView
+        android:id="@+id/subject_Name_Tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="English"
+        android:textSize="20dp"
+        android:textColor="@color/gray900"
+        />
+
+    <TextView
+        android:id="@+id/teacher_Name_Tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jakir Hossain"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/time_Tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="20:00 To 22:30"
+        android:textSize="13sp" />
+
+</LinearLayout>

@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "508141461019",
+    "firebase_url": "https://online-attendance-bc16f.firebaseio.com",
+    "project_id": "online-attendance-bc16f",
+    "storage_bucket": "online-attendance-bc16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508141461019:android:133c3483cdff6370",
+        "android_client_info": {
+          "package_name": "com.example.diuteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508141461019-ieto9014k95vjfjsljkmcsgj8m0dienl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diuteacher",
+            "certificate_hash": "73cd0fba79eb6e898b82ba9f256713a15362fc55"
+          }
+        },
+        {
+          "client_id": "508141461019-ma5f4cok0accem5dqns5f7a23n5tpl6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsOhxbwHRFGv419aApFdnjjHW9dqtQzhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508141461019-ma5f4cok0accem5dqns5f7a23n5tpl6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508141461019:android:48fce7d7c79fa9b5",
+        "android_client_info": {
+          "package_name": "com.example.onlineattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508141461019-ma5f4cok0accem5dqns5f7a23n5tpl6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsOhxbwHRFGv419aApFdnjjHW9dqtQzhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508141461019:android:04b109640a61561b",
+        "android_client_info": {
+          "package_name": "com.example.onlineattendanceadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508141461019-ma5f4cok0accem5dqns5f7a23n5tpl6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsOhxbwHRFGv419aApFdnjjHW9dqtQzhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
